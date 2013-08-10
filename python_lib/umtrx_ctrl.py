@@ -22,7 +22,7 @@ UDP_CONTROL_PORT = 49152
 UDP_MAX_XFER_BYTES = 1024
 UDP_TIMEOUT = 1
 UDP_POLL_INTERVAL = 0.10 #in seconds
-USRP2_CONTROL_PROTO_VERSION = 11 # must match firmware proto
+USRP2_CONTROL_PROTO_VERSION = 12 # must match firmware proto
 
 # see fw_common.h
 CONTROL_FMT = '!LLL24x'
